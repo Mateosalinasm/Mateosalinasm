@@ -1,6 +1,9 @@
 <h1 align="center" style="color:#91CB3E; font-size:70px; font-weight: bold; font-family: Kaushan Script; margin-bottom:10px">Mateo Salinas</h1> 
 
-<img align="center" src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;Tech%20Enthusiast;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=C1FF72&vCenter=true&pause=1000&size=25" />
+<div align='center'>
+<img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;Tech%20Enthusiast;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=C1FF72&vCenter=false&pause=1000&size=25" />
+</div>
+
 
 **`Software Engineer/Digital Craftsman`**
 
