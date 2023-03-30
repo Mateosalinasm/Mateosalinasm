@@ -1,6 +1,6 @@
-<img align="center" style="margin-bottom: 20px" src="Contact (3).png">
+<img align="center" style="margin-bottom: 20px; max-width: 400px" src="Contact (3).png">
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;Tech%20Enthusiast;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=C1FF72&vCenter=false&pause=1000&size=25" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;Tech%20Enthusiast;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=C1FF72&vCenter=true&pause=1000&size=25" />
 
 **`Software Engineer/Digital Craftsman`**
 
@@ -14,7 +14,7 @@ As a software engineer, I am driven by a desire to build aesthetically pleasing 
 ##  Languages and Tools
 </div>
 
-#
+
 
 <img align="left" width="40px" style="padding-right:10px; padding-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 
