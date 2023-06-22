@@ -2,7 +2,7 @@
 
 
 <div align='center'>
-<img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;Tech%20Enthusiast;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f59e0b&vCenter=false&pause=1000&size=25" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;Tech%20Enthusiast;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=C1FF71&vCenter=false&pause=1000&size=25" />
 </div>
 
 
