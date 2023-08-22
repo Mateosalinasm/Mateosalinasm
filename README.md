@@ -10,7 +10,7 @@
 
 As a software engineer, I am driven by a desire to build aesthetically pleasing and intuitive applications that not only solve real-world problems, but also delight and inspire users. I believe that a great application is more than just lines of code - it's about the user experience, the design, and the overall impact it has on people's lives. That's why I put my heart and soul into every project I work on, starting from the initial planning and design stages and continuing through to the final implementation of the code.
 
-🌱 I’m currently learning *React Native* and *TypeScript*
+🌱 I’m currently learning **React Native** and **TypeScript**
 
 <div style="display: inline">
 <img align="left" width="25px" style="padding-right:10px; padding-top:10px" src="coding.png"> 
